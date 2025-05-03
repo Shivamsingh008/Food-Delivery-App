@@ -17,7 +17,7 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            We are a team of passionate individuals who are dedicated to
+            We are our team of passionate individuals who are dedicated to
             creating high-quality products that make a positive impact on
             people's lives.
           </p>
